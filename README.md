@@ -56,3 +56,5 @@
 19. Enter text (“query for codes over 100 times:”) in `M9` and use `COUNTIFS()` to find the number of times users searched for ‘codes’ more than 100 times in a given month.
 
 20. Create a new column (G) with a header of “Volume”. Populate this column with one of 3 categories: ‘Low’, ‘Medium’, ‘High’. Low volume searches happened less than 50 times in a month, medium volume searches happened between 50 and 100 times in a month (inclusive), and high volume searches were conducted more than 100 times in a month.
+
+Test
